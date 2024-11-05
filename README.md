@@ -1,2 +1,7 @@
 # DataScienceEcosystemAssignment
-# Final Assignment for Course 2 Module 5
+
+# Coursera Assignment
+
+Author: Erick Madrigal
+
+This document is the final assignment of Course 2 Module 5.
